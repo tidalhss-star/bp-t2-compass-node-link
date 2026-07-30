@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://compass.node-link.shop/sitemap.xml
+Sitemap: https://compass.node-link.shop/sitemap-pages.xml
