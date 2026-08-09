@@ -36,12 +36,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://compass.node-link.shop/posts/field_note-004-17bd4a5.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://compass.node-link.shop/posts/guide-001-14tb4li.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://compass.node-link.shop/posts/guide-001-98r0bs.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://compass.node-link.shop/posts/guide-003-1abqp6w.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -56,12 +66,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://compass.node-link.shop/posts/major_compare-005-tuxw74.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://compass.node-link.shop/posts/myth-002-1fyay5o.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://compass.node-link.shop/posts/myth-005-1vsw8pa.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://compass.node-link.shop/posts/myth-005-8xfdwq.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://compass.node-link.shop/posts/qa-001-rpfaxg.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
